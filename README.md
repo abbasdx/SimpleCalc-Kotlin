@@ -14,7 +14,7 @@ A simple calculator app built using **Kotlin** and **Jetpack Compose**. This lig
 
 ### Installation  
 1. Clone this repository:  
-   git clone https://github.com/AbbasAnsari1/SimpleCalc-Kotlin.git
+   git clone https://github.com/abbasdx/SimpleCalc-Kotlin.git
 2. Open in **Android Studio**  
 3. Run the app on an **emulator** or **physical device**  
 
