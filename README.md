@@ -24,7 +24,7 @@ A simple calculator app built using **Kotlin** and **Jetpack Compose**. This lig
 - **Android Studio**  
 
 ## 📸 Screenshots  
-(soon...)  
+![App Screenshot](app/src/main/res/drawable/screenshot.jpg)
 
 ## 📌 Future Enhancements  
 🔹 Implement history feature for calculations  
